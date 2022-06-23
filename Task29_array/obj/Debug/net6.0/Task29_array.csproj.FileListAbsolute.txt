@@ -1,0 +1,15 @@
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.csproj.AssemblyReference.cache
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.AssemblyInfoInputs.cache
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.AssemblyInfo.cs
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.csproj.CoreCompileInputs.cache
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\bin\Debug\net6.0\Task29_array.exe
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\bin\Debug\net6.0\Task29_array.deps.json
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\bin\Debug\net6.0\Task29_array.runtimeconfig.json
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\bin\Debug\net6.0\Task29_array.dll
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\bin\Debug\net6.0\Task29_array.pdb
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.dll
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\refint\Task29_array.dll
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.pdb
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\Task29_array.genruntimeconfig.cache
+C:\Users\G1Sup\Desktop\Lesson-4-Denis-Habibullin-Homework-KachimovDA\Task29_array\obj\Debug\net6.0\ref\Task29_array.dll
